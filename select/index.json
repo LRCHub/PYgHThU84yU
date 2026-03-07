@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "未来図",
+  "base_artist": "マルシィ",
+  "createdAt": "2026-03-07T13:26:00.222151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/01_未来図_マルシィ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/02_未来図_マルシィ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "HoneyWorks feat. 合田美桜 (CV:豊崎愛生)",
+      "has_synced": true,
+      "path": "select/03_未来図_HoneyWorks_feat._合田美桜_(CV_豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "HoneyWorks feat.合田美桜 (豊崎愛生)",
+      "has_synced": true,
+      "path": "select/04_未来図_HoneyWorks_feat.合田美桜_(豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "Marcy",
+      "has_synced": false,
+      "path": "select/05_未来図_Marcy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "Marcy",
+      "has_synced": true,
+      "path": "select/06_未来図_Marcy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_未来図_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "HoneyWorks feat. 合田美桜(CV:豊崎愛生)",
+      "has_synced": true,
+      "path": "select/08_未来図_HoneyWorks_feat._合田美桜(CV_豊崎愛生).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "未来図 feat.合田美桜(CV：豊崎愛生)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_未来図_feat.合田美桜(CV_豊崎愛生)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "未来図 feat.合田美桜",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/10_未来図_feat.合田美桜_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "未来図",
+      "artist": "12012",
+      "has_synced": false,
+      "path": "select/11_未来図_12012.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "未来図 (feat. 合田美桜 (CV:豊崎愛生))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_未来図_(feat._合田美桜_(CV_豊崎愛生))_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来図",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_未来図_マルシィ.txt"
+    }
+  ]
+}
